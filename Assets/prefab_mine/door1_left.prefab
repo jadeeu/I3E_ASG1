@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2083011008896060879}
   - component: {fileID: 7564017396141184977}
   - component: {fileID: 3301988778182521100}
-  - component: {fileID: 4068806028446571843}
+  - component: {fileID: 7381010525136429455}
   m_Layer: 0
   m_Name: door1_left
   m_TagString: Untagged
@@ -106,7 +106,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &4068806028446571843
+--- !u!114 &7381010525136429455
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
